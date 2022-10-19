@@ -1,4 +1,14 @@
-h1,p{
+h1,p,h2{
     text-align: center;
     margin-top: 50px auto;
+}
+label,#mySelect,#mySelect2{
+font-size: 30px;
+}
+input{
+    font-size: 30px;
+}
+#submit{
+   margin: 40px 300px;
+   font-size: 30px;
 }
